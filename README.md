@@ -1,10 +1,14 @@
 # pleiades
 
-Maia, script to Parameterize Rule-Based Models written in Kappa Language and simulated using KaSim https://github.com/Kappa-Dev/KaSim
+	Maia, script to Parameterize Rule-Based Models written in Kappa Language and simulated using KaSim https://github.com/Kappa-Dev/Ka
+Electra, script to Parameterize Rule-Based Models written in Kappa Language and simulated using PISKaS https://github.com/DLab/PISKaS
 
-Electra, script to Parameterize Rule-Based Models written in Kappa Language and simulated using PISKaS 
 Taygete, future work...
+
 Alcyone, future work...
-Celaeno,
-Sterope,
-Merope,
+
+Celaeno, future work...
+
+Sterope, future work...
+
+Merope, future work...
